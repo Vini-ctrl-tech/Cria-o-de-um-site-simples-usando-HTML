@@ -1,2 +1,20 @@
-# Cria-o-de-um-site-simples-usando-HTML
-Mini projeto de site em HTML
+</html:5.html>
+<!DOCTYPE html>
+<html lang="en" dir="1tr"
+<head>
+    <meta charset=" utf-8">
+<title>Simple website</title>title></title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <h1>Task List</h1>
+<p id="msg"> Current tasks:</p>
+<ul>
+    <li class=Current tasks:</p>>
+        <ul>
+        <li class="list> Add visual styles</li>
+        <li class= "list">Add light and dark themes</li>
+        <li>Enable switching the theme</li>
+        </ul>
+        <body>
+        </html>
